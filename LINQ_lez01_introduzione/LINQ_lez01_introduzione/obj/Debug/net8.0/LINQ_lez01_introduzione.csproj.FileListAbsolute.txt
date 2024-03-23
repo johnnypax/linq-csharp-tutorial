@@ -1,0 +1,14 @@
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\bin\Debug\net8.0\LINQ_lez01_introduzione.exe
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\bin\Debug\net8.0\LINQ_lez01_introduzione.deps.json
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\bin\Debug\net8.0\LINQ_lez01_introduzione.runtimeconfig.json
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\bin\Debug\net8.0\LINQ_lez01_introduzione.dll
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\bin\Debug\net8.0\LINQ_lez01_introduzione.pdb
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.AssemblyInfoInputs.cache
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.AssemblyInfo.cs
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.csproj.CoreCompileInputs.cache
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.dll
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\refint\LINQ_lez01_introduzione.dll
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.pdb
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\LINQ_lez01_introduzione.genruntimeconfig.cache
+C:\Users\gpace\source\repos\LINQ_lez01_introduzione\LINQ_lez01_introduzione\obj\Debug\net8.0\ref\LINQ_lez01_introduzione.dll

@@ -1,0 +1,14 @@
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\bin\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.exe
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\bin\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.deps.json
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\bin\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.runtimeconfig.json
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\bin\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.dll
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\bin\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.pdb
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.AssemblyInfoInputs.cache
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.AssemblyInfo.cs
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.csproj.CoreCompileInputs.cache
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.dll
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\refint\LINQ_lez03_Libri_Raggruppamento.dll
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.pdb
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\LINQ_lez03_Libri_Raggruppamento.genruntimeconfig.cache
+C:\Users\gpace\source\repos\LINQ_lez03_Libri_Raggruppamento\LINQ_lez03_Libri_Raggruppamento\obj\Debug\net8.0\ref\LINQ_lez03_Libri_Raggruppamento.dll

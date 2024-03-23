@@ -1,0 +1,14 @@
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\bin\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.exe
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\bin\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.deps.json
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\bin\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.runtimeconfig.json
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\bin\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.dll
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\bin\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.pdb
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.AssemblyInfoInputs.cache
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.AssemblyInfo.cs
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.csproj.CoreCompileInputs.cache
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.dll
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\refint\LINQ_lez02_FiltroOggettiStudente.dll
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.pdb
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\LINQ_lez02_FiltroOggettiStudente.genruntimeconfig.cache
+C:\Users\gpace\source\repos\LINQ_lez02_FiltroOggettiStudente\LINQ_lez02_FiltroOggettiStudente\obj\Debug\net8.0\ref\LINQ_lez02_FiltroOggettiStudente.dll
